@@ -6,7 +6,7 @@ Todos os links, fotos e informações são da Atlética Fatec Zona Sul.
 
 ## Começando bem
 
-É página estática que contém links para páginas da Atletica, como redes sociais e páginas em geral, área de login e uma area contando a história.
+Essa é uma página html que contém links para páginas da Atletica, como redes sociais e páginas em geral, área de login e uma area contando a história.
 
 ### Pré-requisitos
 
