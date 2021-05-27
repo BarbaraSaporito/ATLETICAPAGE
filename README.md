@@ -11,9 +11,9 @@ Essa é uma página html que contém links para páginas da Atletica, como redes
 ### Pré-requisitos
 
 Plataforma e softwares necessários para rodar o projeto:
-- [Windows 10]
-- [Visual Studio Code, Ãtom, Sublime Text] ou editores que cumpram a mesma função.
-- [Google Chrome, Mozilla Firefox ou Internet Explorer]
+- [Windows 10](https://www.microsoft.com/pt-br/software-download/windows10)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [Google Chrome] (https://chromeenterprise.google/intl/pt_br/browser/download/?utm_source=adwords&utm_medium=cpc&utm_campaign=2021-H1-chromebrowser-paidmed-paiddisplay-other-chromebrowserent&utm_term=downloadnow&gclid=Cj0KCQjwhr2FBhDbARIsACjwLo1Yo73CHkHiGn2n79hb7YtES7n1JPbH-dYXhmvXWzqjZ3C4GaVlY7UaArfHEALw_wcB&gclsrc=aw.ds#chrome-browser-download&utm_content=GCEJ)
 
 ### Instalando e Executando
 
