@@ -1,12 +1,12 @@
 # ATLETICAPAGE
 
-Projeto criado com intuito de aplicar conhecimentos basicos de HTML e CSS.
+Projeto criado com intuito de aplicar conhecimentos básicos de HTML e CSS.
 Usando links, formatatações, fotos e todas as funcionalidades mais comuns utilizadas em HTML e CSS. 
 Todos os links, fotos e informações são da Atlética Fatec Zona Sul.
 
 ## Começando bem
 
-Essa é uma página html que contém links para páginas da Atletica, como redes sociais e páginas em geral, área de login e uma area contando a história.
+Essa é uma página web que contém links para páginas da Atlética Fatec Zona Sul, como redes sociais e páginas em geral, área de login e uma área contando sua história.
 
 ### Pré-requisitos
 
@@ -18,8 +18,9 @@ Plataforma e softwares necessários para rodar o projeto:
 ### Instalando e Executando
 
 Para baixar basta clicar dentro da pasta ATLETICAPAGE em code > download ZIP.
-Após isso descompartar o projeto e com o mesmo descompactado dar um clique duplo na página Idex.html. (sendo assim possivel a visualização do projeto.
-O mesmo também pode ser aberto em alguma editor de sua preferência como Visual Studio Code ou Atom. Basta abrir o editor e selecionar "Open file" ou "open folder" e buscando o projeto no local que foi salvo em sua máquina.
+Após isso, descompartar o projeto e com o mesmo descompactado dar um clique duplo na página idex.html (sendo assim possivel a visualização do projeto).
+O mesmo também pode ser aberto em algum editor de sua preferência como Visual Studio Code ou Atom. 
+Basta abrir o editor e selecionar a opção "file" > "open file" ou "open folder" e buscar o projeto no local que foi salvo em sua máquina.
 
 ## Feito com
 
