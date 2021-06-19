@@ -4,6 +4,8 @@ Projeto criado com intuito de aplicar conhecimentos básicos de HTML e CSS.
 Usando links, formatatações, fotos e todas as funcionalidades mais comuns utilizadas em HTML e CSS. 
 Todos os links, fotos e informações são da Atlética Fatec Zona Sul.
 
+![atleticapage](https://i.imgur.com/3kpp5gI.png?1)
+
 ## Começando bem
 
 Essa é uma página web que contém links para páginas da Atlética Fatec Zona Sul, como redes sociais e páginas em geral, área de login e uma área contando sua história.
